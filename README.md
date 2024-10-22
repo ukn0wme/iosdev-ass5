@@ -1,4 +1,4 @@
-# Xylophone iOS App
+# Xylophone iOS App by Nurgazinov Daniyal
 
 ## Description
 The **Xylophone** app is a simple iOS application that allows users to play xylophone notes by tapping colorful buttons, each representing a different musical note. The app is built using **UIKit** and plays a sound corresponding to each button's note.
@@ -8,9 +8,6 @@ The **Xylophone** app is a simple iOS application that allows users to play xylo
 - Buttons provide visual feedback when tapped (opacity animation).
 - Ensures no overlapping sounds when notes are tapped quickly.
 - Responsive layout that works on all iPhone screen sizes.
-
-## Screenshots
-*(Add any screenshots of your app here if you want)*
 
 ## Requirements
 - iOS 13.0 or later
